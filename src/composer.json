@@ -1,0 +1,17 @@
+{
+    "name": "trijayadigital/tripay-payment-laravel",
+    "description": "Development & Integration Toolkit from payment.tripay.co.id",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "laravel/framework": ">=5.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bayu29",
+            "email": "bsegara9203@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
